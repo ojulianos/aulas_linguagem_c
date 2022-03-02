@@ -11,7 +11,7 @@ int main() {
     */
     CONTATO juliano;
     strcpy(juliano.nome, "juliano silva");
-    strcpy(juliano.email, "juliano.silva@juliano.com.br");
+    strcpy(juliano.email, "juliano.si6@gmail.com");
 
     /*
     faz a cópia completa do struct juliano em silva
