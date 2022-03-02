@@ -118,42 +118,5 @@ int main(){
         printf("******************************** **********|  |*  Matthew Kott  \n");
         printf("********************************* *********|  |\n");
     }
-
-    // while (1)
-    // {
-    //     printf("Qual eh o seu chute ? \n");
-    //     scanf("%d", &chute);
-    //     if(chute < 0) {
-    //         printf("Voce nao pode enviar numeros menores que zero \n");
-    //         continue;
-    //     }
-    //     printf("Seu chute foi %d, Tentativas: %d \n", chute, tentativas);
-
-    //     int acertou = (numeroSecreto == chute);
-    //     int maior = (numeroSecreto > chute);
-        
-    //     if (acertou) {
-    //         printf("Voce acertou! Parabens!! \n");
-    //         break;
-    //     }
-    //     else if (maior) {
-    //         printf("O numero secreto eh maior.\n");
-    //     }
-    //     else {
-    //         printf("O numero secreto eh menor.\n");
-    //     }
-
-    //     tentativas++;
-
-    //     double pontosperdidos = abs(chute - numeroSecreto) / (double) 2;
-        
-    //     pontos = pontos - pontosperdidos;
-        
-    //     printf("Voce errou! Tente novamente.\n");
-    // }
-
-    // printf("Fim de Jogo!\n");
-    // printf("Voce acertou em %d tentativas!\n", tentativas);
-    // printf("Total de pontos: %.1f \n", pontos);
 }
  
